@@ -64,6 +64,12 @@ The Task Scheduler script requires the `schedule` and `colorama` modules. You ca
 pip install schedule colorama
 ```
 
+If the previous command line threw you an error, you might want to try to the following command instead :
+
+```bash
+python3 -m pip install schedule colorama
+```
+
 ### Installation Steps on
 
 #### Windows
@@ -72,6 +78,10 @@ pip install schedule colorama
 - Run the following command:
   ```bash
   pip install schedule colorama
+  ```
+- If the previous command line threw you an error, you might want to try to the following command instead :
+  ```bash
+  python3 -m pip install schedule colorama
   ```
 
 #### MacOSX
