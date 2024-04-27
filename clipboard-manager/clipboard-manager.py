@@ -1,7 +1,6 @@
 import pyperclip
 import sqlite3
 from datetime import datetime
-import os
 import sys
 
 # Function to initialize the SQLite database
@@ -66,6 +65,9 @@ def print_clipboard_history(history):
 def main():
     # Initialize the database
     init_database()
+
+    # Initialize previous_clipboard_content variable to None
+    previous_clipboard_content = None
     
     while True:
         try:
