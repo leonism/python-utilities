@@ -27,7 +27,7 @@
 
 ## Full Descriptions
 
-### Clipboard Manager 📋
+### 📋 Clipboard Manager
 
 The Clipboard Manager script is a powerful tool designed to enhance your productivity by simplifying the management of clipboard contents. In today's fast-paced digital world, we often find ourselves copying and pasting multiple pieces of text or code snippets throughout our workday. However, the default clipboard functionality provided by operating systems is limited to storing only the most recent entry.
 
@@ -37,7 +37,7 @@ Featuring an intuitive and user-friendly interface, the Clipboard Manager seamle
 
 Say goodbye to the frustration of losing important clipboard contents and hello to increased productivity and efficiency with the Clipboard Manager script.
 
-### Directory Scan 📁
+### 📁 Directory Scan
 
 The Directory Scan script is a versatile tool designed to simplify the process of scanning and analyzing directory structures on your computer. In today's digital age, we often find ourselves dealing with large volumes of files and folders scattered across various directories. Manually navigating through these directory structures to locate specific files or identify duplicates can be a time-consuming and daunting task.
 
@@ -49,7 +49,7 @@ Additionally, the Directory Scan script helps you identify duplicate files and r
 
 Say goodbye to manual file searching and hello to streamlined directory management with the Directory Scan script.
 
-### Files Organizer 🗂️
+### 🗂️ Files Organizer
 
 The Files Organizer script is a must-have tool for anyone looking to keep their digital files organized and clutter-free. In today's digital age, we accumulate vast amounts of files and documents across various devices and storage locations. However, maintaining a tidy and well-organized file system can be a challenging task, especially when dealing with large volumes of files.
 
@@ -59,7 +59,7 @@ Featuring customizable sorting options and flexible configuration settings, the 
 
 Additionally, the Files Organizer script ensures consistency and reliability by automatically sorting new files as they are added to the designated directory. Say goodbye to manual file sorting and hello to automated organization with the Files Organizer script.
 
-### Task Scheduler 🕒
+### 🕒 Task Scheduler
 
 The Task Scheduler script is a versatile tool designed to simplify the process of scheduling and automating repetitive tasks on your computer. In today's fast-paced digital world, we often find ourselves juggling multiple tasks and responsibilities, from daily backups and file transfers to data synchronization and system maintenance.
 
@@ -71,29 +71,29 @@ Additionally, the Task Scheduler script offers robust error handling and notific
 
 ## Best Use Cases
 
-### Clipboard Manager 📋
+### 📋 Clipboard Manager
 
 - Managing multiple clipboard entries during research or data entry tasks.
 - Storing frequently used text snippets or code snippets for easy access.
 
-### Directory Scan 📁
+### 📁 Directory Scan
 
 - Searching for specific files within a directory hierarchy.
 - Identifying duplicate files or large files taking up disk space.
 
-### Files Organizer 🗂️
+### 🗂️ Files Organizer
 
 - Automatically organizing downloads or documents based on file type.
 - Sorting photos or media files into date-based folders for easy access.
 
-### Task Scheduler 🕒
+### 🕒 Task Scheduler
 
 - Automating daily backups of important files or databases.
 - Scheduling regular file transfers between local storage and cloud services.
 
 ## Installation
 
-### Installing Python 🐍
+### 🐍 Installing Python
 
 Make sure you have Python installed on your system. You can download and install Python from the [official Python website](https://www.python.org/).
 
@@ -125,7 +125,7 @@ For examples of usage, please refer to the examples provided in each script's di
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit pull requests or open issues if you have any suggestions or improvements.
+Contributions are welcome! Feel free to submit pull requests or open issues if you have any suggestions or improvements. Check out more on [https://github.com/leonism/python-utilities/](https://github.com/leonism/python-utilities/)
 
 ## License
 
